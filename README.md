@@ -6,7 +6,7 @@ This project contains highly structured, bilingual (English & Chinese) study not
 
 ## 📚 Contents
 
-For every lecture (Week 1 to Week 9), you will find a dedicated analysis file. Each file strictly adheres to the provided course material and ensures high historical accuracy. Every weekly guide is structured into four highly effective sections for exam preparation:
+For every lecture (Week 1 to Week 13), you will find a dedicated analysis file. Each file strictly adheres to the provided course material and ensures high historical accuracy. Every weekly guide is structured into four highly effective sections for exam preparation:
 
 1. **逻辑脉络图 / Logical Framework**: A visual Markdown tree diagram mapping out the core structure and logical progression of the lecture content.
 2. **核心概念大白话 / Core Concepts in Plain Language**: Complex, academic historical terms and jargon are broken down and explained in the most straightforward, easy-to-understand language (both in Chinese and English).
@@ -26,6 +26,10 @@ For every lecture (Week 1 to Week 9), you will find a dedicated analysis file. E
 - [Week 7: Parties and Factions](Week_7_Analysis.md) - Paris Peace Conference, May Fourth Movement, KMT Leninist integration, and the Canton Coup.
 - [Week 8: The Blocs within and the Enemy without](Week_8_Analysis.md) - Manchukuo, The Long March, Guerrilla Warfare, New Life Movement, and the Xi'an Incident.
 - [Week 9: Triumph of the CCP](Week_9_Analysis.md) - Second United Front, Yalta Agreement, Outer Mongolia independence, and the Chongqing Negotiations.
+- [Week 10: Frequently Used Databases and Citation Styles](Week_10_Analysis.md) - Secondary Sources, Primary Archives by Era, and Chicago Citation.
+- [Week 11: Socialist Transformations (1949-1976)](Week_11_Analysis.md) - Korean War, Four Impressions, Cultural Revolution, and Constitutional Debates.
+- [Week 12: The Reform and Opening Up (1978-1992)](Week_12_Analysis.md) - Household Contract, State Capitalism, SOE Reforms, and contrast with USSR.
+- [Week 13: Conclusions (1990-2020s)](Week_13_Analysis.md) - 1994 Fiscal Reform, Land Finance, Chen Yun's Bird Cage, and Structural Discrimination.
 
 ## 📝 Disclaimer
 These notes are intended for academic review and exam preparation. All factual claims and historical interpretations are strictly derived from the official course presentation slides. 
