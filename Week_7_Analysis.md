@@ -2,31 +2,33 @@
 
 ## 1. 逻辑脉络图 / Logical Framework
 
+![Week 7 Mindmap](../mindmap/week7mindmap.png)
+
 ```mermaid
-mindmap
-  root((Week 7: Parties & Factions))
-    Beiyang Government (北洋政府时期)
-      Factions: Anhui (Duan Qirui), Zhili (Feng Guozhang)
-      President vs Premier Conflict (府院之争：黎元洪 vs 段祺瑞)
-      WWI Participation & May Fourth (一战参战与五四运动)
-    International Backdrop (国际背景)
-      Paris Peace Conference (巴黎和会) & Treaty of Versailles
-      Wilson's 14 Points vs Imperialist reality
-      Rise of Nationalism against Japan (反日民族主义与惩办国贼)
-    The Reorganization of KMT (国民党的改组)
-      Leninist Party Model (列宁主义政党模式)
-      Whampoa Military Academy (黄埔军校)
-      Jiang Kai-shek's suspicion of Soviet Russia (蒋介石对苏俄的戒心)
-    The KMT-CCP Split to "Reunification" (国共破裂与形式统一)
-      Canton Coup (中山舰事件 1926) -> Northern Expedition (北伐)
-      1927 Purges (四一二与七一五反共政变)
-      Huanggutun Incident (皇姑屯事件 1928) -> Zhang Xueliang's Northeast Flag Replacement (东北易帜)
-      Nominal Reunification (形式上的统一)
+  mindmap
+    root((Week 7: Parties & Factions))
+      Beiyang Government (北洋政府时期)
+        Factions: Anhui (Duan Qirui), Zhili (Feng Guozhang)
+        President vs Premier Conflict (府院之争：黎元洪 vs 段祺瑞)
+        WWI Participation & May Fourth (一战参战与五四运动)
+      International Backdrop (国际背景)
+        Paris Peace Conference (巴黎和会) & Treaty of Versailles
+        Wilson's 14 Points vs Imperialist reality
+        Rise of Nationalism against Japan (反日民族主义与惩办国贼)
+      The Reorganization of KMT (国民党的改组)
+        Leninist Party Model (列宁主义政党模式)
+        Whampoa Military Academy (黄埔军校)
+        Jiang Kai-shek's suspicion of Soviet Russia (蒋介石对苏俄的戒心)
+      The KMT-CCP Split to "Reunification" (国共破裂与形式统一)
+        Canton Coup (中山舰事件 1926) -> Northern Expedition (北伐)
+        1927 Purges (四一二与七一五反共政变)
+        Huanggutun Incident (皇姑屯事件 1928) -> Zhang Xueliang's Northeast Flag Replacement (东北易帜)
+        Nominal Reunification (形式上的统一)
 ```
 
 ## 2. 核心概念大白话 / Core Concepts in Plain Language
 
-*   **President vs Premier (府院之争)**: 
+*   **President vs premier (府院之争)**: 
     *   *大白话解说*：民国初年，总统（代表“府”，如黎元洪）和总理（代表“院”，如段祺瑞）因为《临时约法》规定不清，为了到底该听谁的、要不要参加一战等问题天天吵架打架，导致中央政府极度瘫痪。
     *   *Plain English*：The severe political deadlock and infighting in the early Beiyang government between the President and the Premier (Cabinet), primarily caused by the ambiguous power-sharing design in the Provisional Constitution.
 *   **The May Fourth Movement / 五四运动**:

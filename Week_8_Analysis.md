@@ -2,6 +2,8 @@
 
 ## 1. 逻辑脉络图 / Logical Framework
 
+![Week 8 Mindmap](../mindmap/week8mindmap.png)
+
 ```mermaid
 mindmap
   root((Week 8: Internal Blocs & External Enemy))

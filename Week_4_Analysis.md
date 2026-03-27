@@ -2,24 +2,26 @@
 
 ## 1. 逻辑脉络图 / Logical Framework
 
+![Week 4 Mindmap](../mindmap/week4mindmap.png)
+
 ```mermaid
-mindmap
-  root((Week 4: Self-Strengthening))
-    The Restoration (同光中兴)
-      Goal: Maintain domestic stability vs Resist foreign intrusion (维稳与制夷)
-      Funding: Maritime Customs, Lijin, Contributions (海关、厘金、捐纳)
-    Self-Strengthening Movement (洋务运动)
-      Principle: Chinese Learning as Essence, Western Learning as Forms (中体西用)
-      Efforts: Arsenals, Shipyards, Translation bureaus, Studying abroad (兵工厂、翻译馆、留学生)
-      Merchants Group: Government Supervised, Merchant Managed (官督商办)
-    Frontier Crises & Geopolitics (边疆危机与地缘政治)
-      Dungan Revolt & Xinjiang Recovery: Zuo Zongtang (平息回乱，左宗棠收复新疆)
-      Sino-French War (1883-1885): Loss of Vietnam (中法战争失去越南)
-      Rise of Japan: Annexation of Ryukyu (琉球被吞并)
-    The First Sino-Japanese War & Aftermath (甲午战争与后果)
-      Result: Destruction of Beiyang Fleet (北洋水师覆灭)
-      Treaty of Shimonoseki (1895): Cession of Taiwan and Liaodong, Indemnity (马关条约割台湾、赔款)
-      Reactions: Hundred Days' Reform (戊戌变法) by Kang & Liang, suppressed by Cixi
+  mindmap
+    root((Week 4: Self-Strengthening))
+      The Restoration (同光中兴)
+        Goal: Maintain domestic stability vs Resist foreign intrusion (维稳与制夷)
+        Funding: Maritime Customs, Lijin, Contributions (海关、厘金、捐纳)
+      Self-Strengthening Movement (洋务运动)
+        Principle: Chinese Learning as Essence, Western Learning as Forms (中体西用)
+        Efforts: Arsenals, Shipyards, Translation bureaus, Studying abroad (兵工厂、翻译馆、留学生)
+        Merchants Group: Government Supervised, Merchant Managed (官督商办)
+      Frontier Crises & Geopolitics (边疆危机与地缘政治)
+        Dungan Revolt & Xinjiang Recovery: Zuo Zongtang (平息回乱，左宗棠收复新疆)
+        Sino-French War (1883-1885): Loss of Vietnam (中法战争失去越南)
+        Rise of Japan: Annexation of Ryukyu (琉球被吞并)
+      The First Sino-Japanese War & Aftermath (甲午战争与后果)
+        Result: Destruction of Beiyang Fleet (北洋水师覆灭)
+        Treaty of Shimonoseki (1895): Cession of Taiwan and Liaodong, Indemnity (马关条约割台湾、赔款)
+        Reactions: Hundred Days' Reform (戊戌变法) by Kang & Liang, suppressed by Cixi
 ```
 
 ## 2. 核心概念大白话 / Core Concepts in Plain Language

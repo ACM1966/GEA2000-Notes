@@ -2,28 +2,30 @@
 
 ## 1. 逻辑脉络图 / Logical Framework
 
+![Week 3 Mindmap](../mindmap/week3mindmap.png)
+
 ```mermaid
-mindmap
-  root((Week 3: Taiping Civil War))
-    Context: The Universal Empire Paradox (大一统帝国的悖论)
-      Claim: Son of Heaven rules all (普天之下莫非王土)
-      Reality: Limited State Capacity (王权不下县，天高皇帝远)
-    Rise of the Taiping (太平天国的崛起)
-      Hong Xiuquan & God Worshippers (洪秀全与拜上帝会)
-      Capital at Nanjing (1853), Anti-Establishment (定都南京，反体制)
-      "Taiping Christianity" (太平基督教：天父天兄等本土化改造)
-    Financing the War & Rise of Shanghai (战争融资与上海的崛起)
-      Treaty of Nanjing's effect: Open ports like Shanghai (南京条约重塑通商口岸)
-      Lijin Tax (厘金): Domestic transit tax to fund military (厘金：地方抽税筹集军费)
-      Lijin Rewards: Official titles, trade privileges (奖励官职与特权)
-    The Xiang (Hunan) Army & Suppression (湘军与镇压)
-      Zeng Guofan & Local Militia (曾国藩与乡勇)
-      Led by Gentry/Scholars, strict discipline (儒家士大夫领导，纪律严明)
-      Western Involvement: Ever-Victorious Army, Western weapons (洋枪队与西式装备)
-    Conclusion & Aftermath (结论与影响)
-      Increased State-Western/Merchant interaction (国家与洋人/商人的深度绑定)
-      Arms Race & Reconstruction (军备竞赛与战后重建 - 同光中兴)
-      Shift in Fiscal Power: Maritime shipping, Lijin, Monetization (财政权力转移)
+  mindmap
+    root((Week 3: Taiping Civil War))
+      Context: The Universal Empire Paradox (大一统帝国的悖论)
+        Claim: Son of Heaven rules all (普天之下莫非王土)
+        Reality: Limited State Capacity (王权不下县，天高皇帝远)
+      Rise of the Taiping (太平天国的崛起)
+        Hong Xiuquan & God Worshippers (洪秀全与拜上帝会)
+        Capital at Nanjing (1853), Anti-Establishment (定都南京，反体制)
+        "Taiping Christianity" (太平基督教：天父天兄等本土化改造)
+      Financing the War & Rise of Shanghai (战争融资与上海的崛起)
+        Treaty of Nanjing's effect: Open ports like Shanghai (南京条约重塑通商口岸)
+        Lijin Tax (厘金): Domestic transit tax to fund military (厘金：地方抽税筹集军费)
+        Lijin Rewards: Official titles, trade privileges (奖励官职与特权)
+      The Xiang (Hunan) Army & Suppression (湘军与镇压)
+        Zeng Guofan & Local Militia (曾国藩与乡勇)
+        Led by Gentry/Scholars, strict discipline (儒家士大夫领导，纪律严明)
+        Western Involvement: Ever-Victorious Army, Western weapons (洋枪队与西式装备)
+      Conclusion & Aftermath (结论与影响)
+        Increased State-Western/Merchant interaction (国家与洋人/商人的深度绑定)
+        Arms Race & Reconstruction (军备竞赛与战后重建 - 同光中兴)
+        Shift in Fiscal Power: Maritime shipping, Lijin, Monetization (财政权力转移)
 ```
 
 ## 2. 核心概念大白话 / Core Concepts in Plain Language

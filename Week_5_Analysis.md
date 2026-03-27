@@ -2,26 +2,28 @@
 
 ## 1. 逻辑脉络图 / Logical Framework
 
+![Week 5 Mindmap](../mindmap/week5mindmap.png)
+
 ```mermaid
-mindmap
-  root((Week 5: Boxer to 1911))
-    The Vicious Circle (晚清恶性循环)
-      Military Defeats -> Diplomatic Concessions (战败引诱让步)
-      Concessions -> Legitimacy Crisis (让步导致合法性危机)
-      Crisis -> Desperate Reforms (危机催生绝望的改革)
-    The Boxer Crisis (义和团运动与庚子国难)
-      Boxers: Anti-foreign, supported by Cixi's declaration of war (扶清灭洋，慈禧宣战)
-      Eight-Nation Alliance (八国联军) capturing Beijing
-      East-South Defense Pact (东南互保): Provinces ignoring the central court's war order
-      Boxer Protocol (辛丑条约): Huge indemnity (450M silver outnces)
-    Late Qing Reforms & Constitutionalism (清末新政与预备立宪)
-      Abolition of Civil Service Exam (废除科举制)
-      Russo-Japanese War (日俄战争) proving Constitutional Monarchy works
-      "The Royal Cabinet" (皇族内阁): Manchu vs Han divide (满汉畛域)
-    The Road to Revolution (走向共和/辛亥革命)
-      Railroad Rights Recovery Movement (保路运动) in Sichuan
-      Sun Yat-sen & Tongmenghui (孙中山与同盟会联合)
-      Wuchang Uprising (1911武昌起义)
+  mindmap
+    root((Week 5: Boxer to 1911))
+      The Vicious Circle (晚清恶性循环)
+        Military Defeats -> Diplomatic Concessions (战败引诱让步)
+        Concessions -> Legitimacy Crisis (让步导致合法性危机)
+        Crisis -> Desperate Reforms (危机催生绝望的改革)
+      The Boxer Crisis (义和团运动与庚子国难)
+        Boxers: Anti-foreign, supported by Cixi's declaration of war (扶清灭洋，慈禧宣战)
+        Eight-Nation Alliance (八国联军) capturing Beijing
+        East-South Defense Pact (东南互保): Provinces ignoring the central court's war order
+        Boxer Protocol (辛丑条约): Huge indemnity (450M silver outnces)
+      Late Qing Reforms & Constitutionalism (清末新政与预备立宪)
+        Abolition of Civil Service Exam (废除科举制)
+        Russo-Japanese War (日俄战争) proving Constitutional Monarchy works
+        "The Royal Cabinet" (皇族内阁): Manchu vs Han divide (满汉畛域)
+      The Road to Revolution (走向共和/辛亥革命)
+        Railroad Rights Recovery Movement (保路运动) in Sichuan
+        Sun Yat-sen & Tongmenghui (孙中山与同盟会联合)
+        Wuchang Uprising (1911武昌起义)
 ```
 
 ## 2. 核心概念大白话 / Core Concepts in Plain Language

@@ -2,26 +2,28 @@
 
 ## 1. 逻辑脉络图 / Logical Framework
 
+![Week 6 Mindmap](../mindmap/week6mindmap.png)
+
 ```mermaid
-mindmap
-  root((Week 6: Yuan Shikai & ROC))
-    Rise of Yuan Shikai (袁世凯的崛起)
-      Reforms in Zhili: New Military, Public Security, Recovering Mines (练新军、建警察、收回路权)
-      Leader of Beiyang Army: Power broker between Qing & Revolutionaries (北洋军阀领袖)
-    The Abdication of the Qing (清帝退位)
-      Xinhai Revolution (辛亥革命): South vs North divide (南方革命党 vs 北方北洋军)
-      Yuan's Negotiation: Emperor surrenders authority but keeps title/stipend (皇帝退位但保留尊号待遇)
-      Sun Yat-sen resigns, Yuan elected Provisional President (孙中山让位，袁世凯就任总统)
-    Constitutional Debates of the Early ROC (民国初年的宪政辩论)
-      Separation of Power: Presidential vs Parliamentary (总统制 vs 内阁制)
-      Sun Yat-sen (Presidential limit) vs Song Jiaoren (Parliamentary restraint)
-      Song Jiaoren Assassinated (1913) -> Second Revolution (二次革命)
-    Yuan's Consolidation and Fall (袁世凯的称帝与覆灭)
-      Recentralization: Foreign loans, dissolving KMT, 21 Articles with Japan (善后大借款、解散国民党、二十一条)
-      Ascended the Throne (1915-1916): Failed dynastic restoration (称帝失败)
-    Yuan's Legacy (袁世凯的政治遗产)
-      Father of Warlords (军阀之父：依赖军事统治)
-      De facto Federalism (事实上的封建/地方自治状态)
+  mindmap
+    root((Week 6: Yuan Shikai & ROC))
+      Rise of Yuan Shikai (袁世凯的崛起)
+        Reforms in Zhili: New Military, Public Security, Recovering Mines (练新军、建警察、收回路权)
+        Leader of Beiyang Army: Power broker between Qing & Revolutionaries (北洋军阀领袖)
+      The Abdication of the Qing (清帝退位)
+        Xinhai Revolution (辛亥革命): South vs North divide (南方革命党 vs 北方北洋军)
+        Yuan's Negotiation: Emperor surrenders authority but keeps title/stipend (皇帝退位但保留尊号待遇)
+        Sun Yat-sen resigns, Yuan elected Provisional President (孙中山让位，袁世凯就任总统)
+      Constitutional Debates of the Early ROC (民国初年的宪政辩论)
+        Separation of Power: Presidential vs Parliamentary (总统制 vs 内阁制)
+        Sun Yat-sen (Presidential limit) vs Song Jiaoren (Parliamentary restraint)
+        Song Jiaoren Assassinated (1913) -> Second Revolution (二次革命)
+      Yuan's Consolidation and Fall (袁世凯的称帝与覆灭)
+        Recentralization: Foreign loans, dissolving KMT, 21 Articles with Japan (善后大借款、解散国民党、二十一条)
+        Ascended the Throne (1915-1916): Failed dynastic restoration (称帝失败)
+      Yuan's Legacy (袁世凯的政治遗产)
+        Father of Warlords (军阀之父：依赖军事统治)
+        De facto Federalism (事实上的封建/地方自治状态)
 ```
 
 ## 2. 核心概念大白话 / Core Concepts in Plain Language
